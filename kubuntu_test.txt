@@ -1,0 +1,65 @@
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57836
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-10.0 sec  66.6 GBytes  57.2 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59258
+[  4]  0.0-10.0 sec  68.5 GBytes  58.8 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57840
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59262
+[  4]  0.0-10.0 sec  27.0 GBytes  23.2 Gbits/sec
+[  5]  0.0-10.0 sec  27.1 GBytes  23.2 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49310
+[  4]  0.0-10.0 sec  68.5 GBytes  58.8 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59290
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57872
+[  4]  0.0-10.0 sec  42.5 GBytes  36.5 Gbits/sec
+[  5]  0.0-10.0 sec  42.5 GBytes  36.5 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57874
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59296
+[  6] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49320
+[  4]  0.0-10.0 sec  19.1 GBytes  16.4 Gbits/sec
+[  5]  0.0-10.0 sec  17.6 GBytes  15.1 Gbits/sec
+[  6]  0.0-10.0 sec  19.6 GBytes  16.8 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.7 port 56106
+[  4]  0.0- 1.6 sec  10.6 GBytes  56.6 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59302
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49328
+[  6] local 172.17.0.2 port 5001 connected with 172.17.0.7 port 56114
+[  4]  0.0-10.0 sec  20.4 GBytes  17.5 Gbits/sec
+[  5]  0.0-10.0 sec  17.4 GBytes  15.0 Gbits/sec
+[  6]  0.0-10.0 sec  19.3 GBytes  16.5 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59310
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57892
+[  6] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49336
+[  7] local 172.17.0.2 port 5001 connected with 172.17.0.7 port 56122
+[  4]  0.0-10.0 sec  16.9 GBytes  14.5 Gbits/sec
+[  5]  0.0-10.0 sec  14.4 GBytes  12.4 Gbits/sec
+[  6]  0.0-10.0 sec  13.8 GBytes  11.9 Gbits/sec
+[  7]  0.0-10.0 sec  16.5 GBytes  14.2 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59318
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57900
+[  4]  0.0-10.0 sec  61.8 GBytes  53.0 Gbits/sec
+[  5]  0.0-10.0 sec  62.9 GBytes  54.0 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59322
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57904
+[  4]  0.0-10.0 sec  47.6 GBytes  40.9 Gbits/sec
+[  5]  0.0-10.0 sec  47.6 GBytes  40.9 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59326
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57908
+[  4]  0.0-10.0 sec  64.0 GBytes  54.9 Gbits/sec
+[  5]  0.0-10.0 sec  63.1 GBytes  54.2 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57910
+[  4]  0.0-10.0 sec  70.7 GBytes  60.7 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49354
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57914
+[  6] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59336
+[  4]  0.0-10.0 sec  20.3 GBytes  17.4 Gbits/sec
+[  5]  0.0-10.0 sec  19.0 GBytes  16.4 Gbits/sec
+[  6]  0.0-10.0 sec  19.3 GBytes  16.6 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.5 port 59338
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49362
+[  4]  0.0-10.0 sec  31.7 GBytes  27.2 Gbits/sec
+[  5]  0.0-10.0 sec  32.1 GBytes  27.6 Gbits/sec
+[  4] local 172.17.0.2 port 5001 connected with 172.17.0.6 port 49364
+[  5] local 172.17.0.2 port 5001 connected with 172.17.0.4 port 57924
+[  4]  0.0-10.0 sec  56.2 GBytes  48.2 Gbits/sec
+[  5]  0.0-10.0 sec  56.1 GBytes  48.2 Gbits/sec
